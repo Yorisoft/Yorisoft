@@ -9,7 +9,7 @@
 
 - 🔭 Currently working @ AthenaHealth
 - 🌱 I’m currently learning OAuth && how to create CICD pipeline infrastructure 
-- 👯 Looking to collaborate on creating bots, c++, Terraform, Jenkins. 
+- 👯 Looking to collaborate on creating bots, C++, Terraform, Jenkins. 
 - 🤔 I’m looking for help with learning more about jenkins to create automated infrastructure for deploying / maintining projects. 
 - 💬 Ask me about anything [here](https://github.com/Yorisoft/Yorisoft/issues)
 - 📫 How to reach me: yorisoft@hotmail.com
