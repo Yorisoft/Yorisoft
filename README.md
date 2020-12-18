@@ -7,7 +7,7 @@
 <br />
 <br />
 
-- 🔭 Currently working @ AthenaHealth
+- 🔭 Currently working on Automed Testing
 - 🌱 I’m currently learning OAuth && how to create CICD pipeline infrastructure 
 - 👯 Looking to collaborate on creating bots, C++, Terraform, Jenkins. 
 - 🤔 I’m looking for help with learning more about jenkins to create automated infrastructure for deploying / maintining projects. 
