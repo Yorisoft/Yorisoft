@@ -1,10 +1,5 @@
 ### Hi there !! Im [Yelsin!](https://github.com/Yorisoft) 👋
 
-<a href="www.linkedin.com/in/yelsin-sepulveda-8591a888">
-  <img align="left" alt="Yelsin Sepulveda | LinkedIn" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
-</a>
-
-<br />
 <br />
 
 - 🔭 Currently working on Automated Testing
@@ -14,6 +9,13 @@
 - 💬 Ask me about anything [here](https://github.com/Yorisoft/Yorisoft/issues)
 - 📫 How to reach me: yorisoft@hotmail.com
 - ⚡ Fun fact: I play french horn
+
+<br />
+<br />
+
+<a href="www.linkedin.com/in/yelsin-sepulveda-8591a888">
+  <img align="left" alt="Yelsin Sepulveda | LinkedIn" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+</a>
 
 **Languages and Tools:**  
 
