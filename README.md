@@ -13,7 +13,7 @@
 <br />
 
 <a target="_blank" href="www.linkedin.com/in/yelsin-sepulveda-8591a888">
-  <img align="left" alt="Yelsin Sepulveda | LinkedIn" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+  <img align="left" alt="Yelsin Sepulveda | LinkedIn" width="20px" src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" />
 </a>
 
 <br />
