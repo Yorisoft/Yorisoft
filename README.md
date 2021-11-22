@@ -12,10 +12,12 @@
 
 <br />
 
-<a target="_blank" href="www.linkedin.com/in/yelsin-sepulveda-8591a888">
-  <img align="left" alt="Yelsin Sepulveda | LinkedIn" width="20px" src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" />
+<a target="_blank" href="www.linkedin.com/in/yelsin-sepulveda-8591a888" >
+  <img align="left" alt="Yelsin Sepulveda | LinkedIn" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />
 </a>
 
+<br />
+<br />
 <br />
 
 **Languages and Tools:**  
