@@ -2,10 +2,10 @@
 
 <br />
 
-- 🔭 Currently working on cloud computing certs
+- 🔭 Currently working on LeetCode / Grind 75
 - 🌱 I’m currently learning how to build Well-Architected infrastructure on AWS
 - 👯 Looking to collaborate on creating bots, C++, Terraform, Jenkins. 
-- 🤔 I’m looking for help with learning more about jenkins to create automated infrastructure for deploying / maintining projects. 
+- 🤔 I’m looking for help with learning more about DevOps & creating automated infrastructure for deploying / maintining projects. 
 - 💬 Ask me about anything [here](https://github.com/Yorisoft/Yorisoft/issues)
 - 📫 How to reach me: yorisoft@hotmail.com
 - ⚡ Fun fact: I play french horn
