@@ -7,7 +7,7 @@
 - 👯 Looking to collaborate on creating bots, C++, Terraform, Jenkins. 
 - 🤔 I’m looking for help with learning more about DevOps & creating automated infrastructure for deploying / maintining projects. 
 - 💬 Ask me about anything [here](https://github.com/Yorisoft/Yorisoft/issues)
-- 📫 How to reach me: yorisoft@hotmail.com
+- 📫 How to reach me: YelsinSepulveda@gmail.com
 - ⚡ Fun fact: I play french horn
 
 <br />
