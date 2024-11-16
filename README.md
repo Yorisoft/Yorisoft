@@ -2,10 +2,9 @@
 
 <br />
 
-- 🔭 Currently working on LeetCode / Grind 75
-- 🌱 I’m currently learning how to build Well-Architected infrastructure on AWS
-- 👯 Looking to collaborate on creating bots, C++, Terraform, Jenkins. 
-- 🤔 I’m looking for help with learning more about DevOps & creating automated infrastructure for deploying / maintining projects. 
+- 🔭 Currently working on deploying Well-Architected Cloud Infrastructure & [LeetCode | Grind 75](https://leetcode.com/u/Yorisoft/) 
+- 🌱 I’m currently learning about unit testing and how to use differnet graphics library like SDL & OpenGL in C++ [(Pokedex)](https://github.com/Yorisoft/pokedex_miyoo)
+- 👯 Looking to collaborate on creating automated delivery pipelines, unit testing, C++, Terraform, Jenkins. 
 - 💬 Ask me about anything [here](https://github.com/Yorisoft/Yorisoft/issues)
 - 📫 How to reach me: YelsinSepulveda@gmail.com
 - ⚡ Fun fact: I play french horn
