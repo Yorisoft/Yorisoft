@@ -11,6 +11,9 @@
 
 <br />
 
+[![Yorisoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yorisoft&show_icons=true&theme=github_dark_dimmed)](https://github.com/Yorisoft/github-readme-stats)
+
+
 ### Social
 
 <p align="center" style="margin:auto">
