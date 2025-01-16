@@ -11,12 +11,19 @@
 
 <br />
 
-[![Yorisoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yorisoft&show_icons=true&theme=github_dark_dimmed)](https://github.com/Yorisoft/github-readme-stats)
+<!-- Dark mode -->
+[![MyStats](https://github-readme-stats.vercel.app/api?username=Yorisoft&show_icons=true&theme=github_dark_dimmed)](https://github.com/Yorisoft/github-readme-stats#gh-dark-mode-only)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorisoft&hide=c,objective-c,c%23,Roff,shell,perl,shaderlab,makefile,xslt,m4,cmake,asp.net&hide_progress=true&show_icons=true&theme=github_dark_dimmed)](https://github.com/Yorisoft/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorisoft&hide=c,Roff,objective-c,csharp&show_icons=true&theme=github_dark_dimmed)](https://github.com/Yorisoft/github-readme-stats)
+<!-- Light mode -->
+[![MyStats](https://github-readme-stats.vercel.app/api?username=Yorisoft&show_icons=true&theme=shadow_blue)](https://github.com/Yorisoft/github-readme-stats#gh-light-mode-only)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorisoft&hide=c,objective-c,c%23,Roff,shell,perl,shaderlab,makefile,xslt,m4,cmake,asp.net&hide_progress=true&show_icons=true&theme=shadow_blue)](https://github.com/Yorisoft/github-readme-stats#gh-light-mode-only)
+
+
+
 <br />
-### Social
 
+### Social
 <p align="center" style="margin:auto">
 <a target="_blank" href="https://www.linkedin.com/in/yelsin-sepulveda-lara" >
   <img align="left" alt="Yelsin Sepulveda | LinkedIn" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />
@@ -27,9 +34,23 @@
 <br />
 <br />
 
-### Languages and Tools: 
+### Languages:
 <p align="left" style="margin:auto">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,sqlite,jenkins,terraform,docker,linux,aws,bash,vim" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,sqlite,bash" alt="Skills" />
+  </a>
+</p>
+
+### DevOps:
+<p align="left" style="margin:auto">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=jenkins,terraform,docker,grafana,prometheus" alt="Skills" />
+  </a>
+</p>
+
+### Tools:
+<p align="left" style="margin:auto">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linux,git,aws,vim,vscode,visualstudio" alt="Skills" />
   </a>
 </p>
