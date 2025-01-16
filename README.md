@@ -34,23 +34,9 @@
 <br />
 <br />
 
-### Languages:
+### Languages & Tools:
 <p align="left" style="margin:auto">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,sqlite,bash" alt="Skills" />
-  </a>
-</p>
-
-### DevOps:
-<p align="left" style="margin:auto">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=jenkins,terraform,docker,grafana,prometheus" alt="Skills" />
-  </a>
-</p>
-
-### Tools:
-<p align="left" style="margin:auto">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,git,aws,vim,vscode,visualstudio" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,sqlite,jenkins,terraform,docker,grafana,prometheus,linux,git,aws,bash,vim,vscode,visualstudio" alt="Skills" />
   </a>
 </p>
