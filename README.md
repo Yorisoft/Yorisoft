@@ -37,6 +37,6 @@
 ### Languages & Tools:
 <p align="left" style="margin:auto">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,sqlite,jenkins,terraform,docker,grafana,prometheus,linux,git,aws,bash,vim,vscode,visualstudio" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,sqlite,jenkins,terraform,docker,grafana,prometheus,linux,git,aws,bash,vim,vscode,visualstudio&perline=20" alt="Skills" style="width: 800px; height: auto;"/>
   </a>
 </p>
