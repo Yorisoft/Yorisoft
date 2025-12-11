@@ -1,9 +1,9 @@
-### Hi there !! Im Yelsin, a.k.a [Yorisoft!](https://github.com/Yorisoft) 👋
+### Hello there !! Im Yelsin, a.k.a [Yorisoft!](https://github.com/Yorisoft) 👋
 
 <br />
 
-- 🏗️ Currently working on Open Source Contributions to [KDE](https://invent.kde.org/yorisoft) & building a [Pokedex](https://github.com/Yorisoft/pokedex_miyoo)  
-- 🧠 Love learning about DevOps, IaC, Open Source, and working with others on projects. 
+- 🏗️ Currently contributing to FOSS at [KDE](https://invent.kde.org/yorisoft) & building a [Pokedex](https://github.com/Yorisoft/pokedex_miyoo)  
+- 🧠 Love learning about DevOps, IaC, Free Open Source Software, and working with others on projects. 
 - 🤔 My focus is creating Well Architected Cloud Architecture, automated CICD pipelines, and good ole programming. 
 - 💬 Ask me about anything [here](https://github.com/Yorisoft/Yorisoft/issues)
 - 📫 How to reach me: YelsinSepulveda@gmail.com
@@ -28,8 +28,46 @@
 <br />
 
 ### Languages & Tools:
-<p align="left" style="margin:auto">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,sqlite,jenkins,terraform,docker,grafana,prometheus,qt,cmake,linux,git,aws,bash,vim,&perline=20" alt="Skills" style="width: 800px; height: auto;"/>
-  </a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <th>Skills</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>Systems & App Dev</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,java,python,qt,cmake" /></td>
+  </tr>
+  <tr>
+    <td><b>Web Development</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,sqlite" /></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=jenkins,terraform,docker,grafana,prometheus,aws" /></td>
+  </tr>
+  <tr>
+    <td><b>Core Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,git,bash,vim&perline=20" /></td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
