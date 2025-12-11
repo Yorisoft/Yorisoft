@@ -2,9 +2,9 @@
 
 <br />
 
-- 🔭 Currently working on deploying Well-Architected Cloud Infrastructure & [LeetCode | Grind 75](https://leetcode.com/u/Yorisoft/) 
-- 🌱 I’m currently learning about unit testing and how to use differnet graphics library like SDL & OpenGL in C++ [(Pokedex)](https://github.com/Yorisoft/pokedex_miyoo)
-- 👯 Looking to collaborate on creating automated delivery pipelines, unit testing, C++, Terraform, Jenkins. 
+- 🏗️ Currently working on Open Source Contributions to [KDE](https://invent.kde.org/yorisoft) & building a [Pokedex](https://github.com/Yorisoft/pokedex_miyoo)  
+- 🧠 Love learning about DevOps, IaC, Open Source, and working with others on projects. 
+- 🤔 My focus is creating Well Architected Cloud Architecture, automated CICD pipelines, and good ole programming. 
 - 💬 Ask me about anything [here](https://github.com/Yorisoft/Yorisoft/issues)
 - 📫 How to reach me: YelsinSepulveda@gmail.com
 - ⚡ Fun fact: I play french horn
@@ -23,13 +23,6 @@
 
 <br />
 
-### Social
-<p align="center" style="margin:auto">
-<a target="_blank" href="https://www.linkedin.com/in/yelsin-sepulveda-lara" >
-  <img align="left" alt="Yelsin Sepulveda | LinkedIn" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />
-</a>
-</p>
-
 <br />
 <br />
 <br />
@@ -37,6 +30,6 @@
 ### Languages & Tools:
 <p align="left" style="margin:auto">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,sqlite,jenkins,terraform,docker,grafana,prometheus,linux,git,aws,bash,vim,vscode,visualstudio&perline=20" alt="Skills" style="width: 800px; height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,sqlite,jenkins,terraform,docker,grafana,prometheus,qt,cmake,linux,git,aws,bash,vim,&perline=20" alt="Skills" style="width: 800px; height: auto;"/>
   </a>
 </p>
