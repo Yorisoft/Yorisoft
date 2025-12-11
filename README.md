@@ -1,4 +1,4 @@
-### Hi there !! Im [Yelsin!](https://github.com/Yorisoft) 👋
+### Hi there !! Im Yelsin, a.k.a [Yorisoft!](https://github.com/Yorisoft) 👋
 
 <br />
 
@@ -7,7 +7,7 @@
 - 🤔 My focus is creating Well Architected Cloud Architecture, automated CICD pipelines, and good ole programming. 
 - 💬 Ask me about anything [here](https://github.com/Yorisoft/Yorisoft/issues)
 - 📫 How to reach me: YelsinSepulveda@gmail.com
-- ⚡ Fun fact: I play french horn
+- ⚡ Fun fact: I'm learning Japanese!　ゆうゆうはくしょ が いちばんすき！
 
 <br />
 
