@@ -11,6 +11,10 @@
 
 <br />
 
+![Static Badge](https://img.shields.io/badge/Google_Summer_of_Code-2025_Contributor-F4B400?style=for-the-badge&logo=googlesummerofcode)
+
+![Static Badge](https://img.shields.io/badge/KWin_Feature_Maintainer-Game_Controller_Input-1D99F3?style=for-the-badge&logo=kde)
+
 <!-- Dark mode -->
 [![MyStats](https://github-readme-stats.vercel.app/api?username=Yorisoft&show_icons=true&theme=github_dark_dimmed)](https://github.com/Yorisoft/github-readme-stats#gh-dark-mode-only)
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorisoft&hide=c,objective-c,c%23,Roff,shell,perl,shaderlab,makefile,xslt,m4,cmake,asp.net&hide_progress=true&show_icons=true&theme=github_dark_dimmed)](https://github.com/Yorisoft/github-readme-stats#gh-dark-mode-only)
