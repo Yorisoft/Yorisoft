@@ -11,9 +11,10 @@
 
 <br />
 
-![Static Badge](https://img.shields.io/badge/Google_Summer_of_Code-2025_Contributor-F4B400?style=for-the-badge&logo=googlesummerofcode)
+[![Static Badge](https://img.shields.io/badge/Google_Summer_of_Code-2025_Contributor-F4B400?style=for-the-badge&logo=googlesummerofcode)
+](https://community.kde.org/GSoC/2025/StatusReports/Yelsin_%27yorisoft%27_Sepulveda)
 
-![Static Badge](https://img.shields.io/badge/KWin_Feature_Maintainer-Game_Controller_Input-1D99F3?style=for-the-badge&logo=kde)
+[![Static Badge](https://img.shields.io/badge/KWin_Feature_Maintainer-Game_Controller_Input-1D99F3?style=for-the-badge&logo=kde)](https://invent.kde.org/plasma/kwin)
 
 <!-- Dark mode -->
 [![MyStats](https://github-readme-stats.vercel.app/api?username=Yorisoft&show_icons=true&theme=github_dark_dimmed)](https://github.com/Yorisoft/github-readme-stats#gh-dark-mode-only)
@@ -32,7 +33,7 @@
 <br />
 
 ### Languages & Tools:
-<div align="center">
+
 
 <table>
   <tr>
@@ -41,7 +42,7 @@
   </tr>
   <tr>
     <td><b>Systems & App Dev</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cpp,java,python,qt,cmake" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,java,go,python,qt,cmake" /></td>
   </tr>
   <tr>
     <td><b>Web Development</b></td>
@@ -56,14 +57,6 @@
     <td><img src="https://skillicons.dev/icons?i=linux,git,bash,vim&perline=20" /></td>
   </tr>
 </table>
-
-</div>
-
-
-
-
-
-
 
 
 
