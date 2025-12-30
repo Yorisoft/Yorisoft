@@ -14,7 +14,7 @@
 [![Static Badge](https://img.shields.io/badge/Google_Summer_of_Code-2025_Contributor-F4B400?style=for-the-badge&logo=googlesummerofcode)
 ](https://community.kde.org/GSoC/2025/StatusReports/Yelsin_%27yorisoft%27_Sepulveda)
 
-[![Static Badge](https://img.shields.io/badge/KWin_Feature_Maintainer-Game_Controller_Input-1D99F3?style=for-the-badge&logo=kde)](https://invent.kde.org/plasma/kwin)
+<!--  [![Static Badge](https://img.shields.io/badge/KWin_Feature_Maintainer-Game_Controller_Input-1D99F3?style=for-the-badge&logo=kde)](https://invent.kde.org/plasma/kwin) -->
 
 <!-- Dark mode -->
 [![MyStats](https://github-readme-stats.vercel.app/api?username=Yorisoft&show_icons=true&theme=github_dark_dimmed)](https://github.com/Yorisoft/github-readme-stats#gh-dark-mode-only)
