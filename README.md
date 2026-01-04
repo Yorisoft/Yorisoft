@@ -5,7 +5,7 @@
 
 <br />
 
-<h2 align="center"> OPEN FOR WORK </h3>
+<h2 align="center"> Available For Hire </h2>
 
 <br />
 
