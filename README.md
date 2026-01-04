@@ -1,7 +1,7 @@
 <h3 align="center"> Hello there !! Im Yelsin, a.k.a <a href="https://github.com/Yorisoft">Yorisoft!</a> 👋 </h3>
 <br />
 
-![PXL_20240413_184707780 RAW-01 COVER](https://github.com/user-attachments/assets/df0bfbf3-77f2-4871-8435-18c90bf06422)
+![PXL_20240413_184707780 RAW-01_CROPPED_2](https://github.com/user-attachments/assets/741637b2-823a-48bf-903d-cabdb37012c1)
 
 <br />
 
