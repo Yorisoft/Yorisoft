@@ -1,4 +1,7 @@
-### Hello there !! Im Yelsin, a.k.a [Yorisoft!](https://github.com/Yorisoft) 👋
+<h3 align="center"> Hello there !! Im Yelsin, a.k.a <a href="https://github.com/Yorisoft">Yorisoft!</a> 👋 </h3>
+<br />
+
+![PXL_20240413_184707780 RAW-01 COVER](https://github.com/user-attachments/assets/df0bfbf3-77f2-4871-8435-18c90bf06422)
 
 <br />
 
