@@ -5,6 +5,11 @@
 
 <br />
 
+<h2 align="center"> OPEN FOR WORK </h3>
+
+<br />
+
+
 - 🏗️ Currently contributing to FOSS at [KDE](https://invent.kde.org/yorisoft) & building a [Pokedex](https://github.com/Yorisoft/pokedex_miyoo)  
 - 🧠 Love learning about DevOps, IaC, Free Open Source Software, and working with others on projects. 
 - 🤔 My focus is creating Well Architected Cloud Architecture, automated CICD pipelines, and good ole programming. 
