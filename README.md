@@ -10,11 +10,11 @@
 <br />
 
 
-- 🏗️ Currently contributing to FOSS at [KDE](https://invent.kde.org/yorisoft) & building a [Pokedex](https://github.com/Yorisoft/pokedex_miyoo)  
-- 🧠 Love learning about DevOps, IaC, Free Open Source Software, and working with others on projects. 
-- 🤔 My focus is creating Well Architected Cloud Architecture, automated CICD pipelines, and good ole programming. 
-- 💬 Ask me about anything [here](https://github.com/Yorisoft/Yorisoft/issues)
-- 📫 How to reach me: YelsinSepulveda@gmail.com
+- 🧑🏽‍💻 Currently contributing to FOSS at [KDE](https://invent.kde.org/yorisoft) and [Meshery](https://github.com/meshery)  
+- 🏗️ Building a [Pokedex](https://github.com/Yorisoft/pokedex_miyoo)
+- ✍🏽 My focus is DevOps, IaC, Free Open Source Software, automated CICD pipelines, designing Well Architected Cloud Infrastructure, and good ole programming. 
+- 📫 How to reach me: YelsinSepulveda@gmail.com 
+or open up an [issue](https://github.com/Yorisoft/Yorisoft/issues)
 - ⚡ Fun fact: I'm learning Japanese!　ゆうゆうはくしょ が いちばんすき！
 
 <br />
