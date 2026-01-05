@@ -1,14 +1,16 @@
-<h3 align="center"> Hello there !! Im Yelsin, a.k.a <a href="https://github.com/Yorisoft">Yorisoft!</a> 👋 </h3>
+<h2 align="center"> Hello there !! Im Yelsin, a.k.a <a href="https://github.com/Yorisoft">Yorisoft!</a> 👋 </h2>
+<h3 align="center"> Available For Hire </h3>
 <br />
 
 ![PXL_20240413_184707780 RAW-01_CROPPED_2](https://github.com/user-attachments/assets/741637b2-823a-48bf-903d-cabdb37012c1)
 
-<h2 align="center"> Available For Hire </h2>
+
 
 <br />
 
+### What I do:  
 
-- 🧑🏽‍💻 Currently contributing to FOSS at [KDE](https://invent.kde.org/yorisoft) and [Meshery](https://github.com/meshery)  
+- 🧑🏽‍💻 Currently contributing to [FOSS](https://gist.github.com/Yorisoft/2dd47046ca26b58b463279bfee009ea7) over at [KDE](https://invent.kde.org/yorisoft) and at [Meshery](https://github.com/meshery)  
 - 🏗️ Building a [Pokedex](https://github.com/Yorisoft/pokedex_miyoo)
 - ✍🏽 My focus is DevOps, IaC, Free Open Source Software, automated CICD pipelines, designing Well Architected Cloud Infrastructure, and good ole programming. 
 - 📫 How to reach me: YelsinSepulveda@gmail.com 
@@ -17,19 +19,33 @@ or open up an [issue](https://github.com/Yorisoft/Yorisoft/issues)
 
 <br />
 
+
+### Accomplishments: 
+
 [![Static Badge](https://img.shields.io/badge/Google_Summer_of_Code-2025_Contributor-F4B400?style=for-the-badge&logo=googlesummerofcode)
 ](https://community.kde.org/GSoC/2025/StatusReports/Yelsin_%27yorisoft%27_Sepulveda)
 
 <!--  [![Static Badge](https://img.shields.io/badge/KWin_Feature_Maintainer-Game_Controller_Input-1D99F3?style=for-the-badge&logo=kde)](https://invent.kde.org/plasma/kwin) -->
 
 <!-- Dark mode -->
-[![MyStats](https://github-readme-stats.vercel.app/api?username=Yorisoft&show_icons=true&theme=github_dark_dimmed)](https://github.com/Yorisoft/github-readme-stats#gh-dark-mode-only)
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorisoft&hide=c,objective-c,c%23,Roff,shell,perl,shaderlab,makefile,xslt,m4,cmake,asp.net&hide_progress=true&show_icons=true&theme=github_dark_dimmed)](https://github.com/Yorisoft/github-readme-stats#gh-dark-mode-only)
+<a href="https://github.com/Yorisoft/github-readme-stats#gh-dark-mode-only">
+  <img height="200" align="top"
+       src="https://readmestats.999857.xyz/api?username=Yorisoft&show_icons=true&hide_border=true&theme=slateorange#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/Yorisoft/github-readme-stats#gh-dark-mode-only">
+  <img height="200" align="top"
+       src="https://readmestats.999857.xyz/api/top-langs/?username=Yorisoft&hide=objective-c,c%23,Roff,shell,perl,shaderlab,makefile,xslt,m4,cmake,asp.net&hide_progress=true&show_icons=true&hide_border=true&theme=slateorange#gh-dark-mode-only" />
+</a>
 
 <!-- Light mode -->
-[![MyStats](https://github-readme-stats.vercel.app/api?username=Yorisoft&show_icons=true&theme=shadow_blue)](https://github.com/Yorisoft/github-readme-stats#gh-light-mode-only)
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorisoft&hide=c,objective-c,c%23,Roff,shell,perl,shaderlab,makefile,xslt,m4,cmake,asp.net&hide_progress=true&show_icons=true&theme=shadow_blue)](https://github.com/Yorisoft/github-readme-stats#gh-light-mode-only)
-
+<a href="https://github.com/Yorisoft/github-readme-stats#gh-light-mode-only">
+  <img height="200" align="top"
+       src="https://readmestats.999857.xyz/api?username=Yorisoft&show_icons=true&hide_border=true&theme=shadow_blue#gh-light-mode-only" />
+</a>
+<a href="https://github.com/Yorisoft/github-readme-stats#gh-light-mode-only">
+  <img height="200" align="top"
+       src="https://readmestats.999857.xyz/api/top-langs/?username=Yorisoft&hide=objective-c,c%23,Roff,shell,perl,shaderlab,makefile,xslt,m4,cmake,asp.net&hide_progress=true&show_icons=true&hide_border=true&theme=shadow_blue#gh-light-mode-only" />
+</a>
 
 
 <br />
