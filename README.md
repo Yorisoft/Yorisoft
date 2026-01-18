@@ -4,8 +4,6 @@
 
 ![PXL_20240413_184707780 RAW-01_CROPPED_2](https://github.com/user-attachments/assets/741637b2-823a-48bf-903d-cabdb37012c1)
 
-<h3 align="center"> Available For Hire </h3>
-
 <br />
 
 ### What I do:  
