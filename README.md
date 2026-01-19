@@ -8,7 +8,7 @@
 
 ### What I do:  
 
-- 🧑🏽‍💻 Currently contributing to [FOSS](https://gist.github.com/Yorisoft/2dd47046ca26b58b463279bfee009ea7) over at [KDE](https://invent.kde.org/yorisoft) and at [Meshery](https://github.com/meshery)  
+- 🧑🏽‍💻 Currently contributing to [FOSS](https://gist.github.com/Yorisoft/2dd47046ca26b58b463279bfee009ea7) over at [KDE](https://invent.kde.org/yorisoft)  
 - 🏗️ Building a [Pokedex](https://github.com/Yorisoft/pokedex_miyoo)
 - ✍🏽 My focus is DevOps, IaC, Free Open Source Software, automated CICD pipelines, designing Well Architected Cloud Infrastructure, and good ole programming. 
 - 📫 How to reach me: YelsinSepulveda@gmail.com 
