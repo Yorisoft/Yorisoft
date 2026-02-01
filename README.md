@@ -6,6 +6,10 @@
 
 <br />
 
+![My GitHub Game](space_shooter_game.gif)
+
+<br />
+
 ### What I do:  
 
 - 🧑🏽‍💻 Currently contributing to [FOSS](https://gist.github.com/Yorisoft/2dd47046ca26b58b463279bfee009ea7) over at [KDE](https://invent.kde.org/yorisoft)  
