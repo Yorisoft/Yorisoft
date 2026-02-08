@@ -2,13 +2,11 @@
 
 <!-- <br /> -->
 
-<!-- ![PXL_20240413_184707780 RAW-01_CROPPED_2](https://github.com/user-attachments/assets/741637b2-823a-48bf-903d-cabdb37012c1) -->
+![PXL_20240413_184707780 RAW-01_CROPPED_2](https://github.com/user-attachments/assets/741637b2-823a-48bf-903d-cabdb37012c1)
 
 <br />
 
-![My GitHub Game](space_shooter_game.gif)
 
-<br />
 
 ### What I do:  
 
@@ -82,6 +80,11 @@ or open up an [issue](https://github.com/Yorisoft/Yorisoft/issues)
   </tr>
 </table>
 
+<br />
+
+![My GitHub Game](space_shooter_game.gif)
+
+<br />
 
 
 
